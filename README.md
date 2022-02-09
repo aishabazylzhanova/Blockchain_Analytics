@@ -1,4 +1,4 @@
-# Asignment 2
+# Assignment 2
 Blockchain analytics tool with Django
 
 
