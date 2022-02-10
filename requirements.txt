@@ -1,1 +1,4 @@
-
+Django===4.0.1
+Selenium
+ChromeDriver===97.0.4692.71
+requests===2.27.1
