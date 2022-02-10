@@ -17,7 +17,7 @@ and then download Git Repository
 To use this program you need to open terminal and provide path to downloaded project
 
 ```bash
-cd path/to/todo 
+cd path/to/ChartApp 
 ```
 Then you need to start the server
 
